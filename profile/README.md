@@ -4,4 +4,9 @@
 **Alumnos**
 - Carlos
 - Ubay
+- Javier
+
+**Asignación de tarea de MakeCode 1**
+**Roster de alumnos**
+
 
